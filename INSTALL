@@ -1,0 +1,9 @@
+Building Mngcoin
+
+See doc/readme-qt.rst for instructions on building Mngcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mngcoin.
+
+See doc/build-*.txt for instructions on building mngcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mngcoin.
