@@ -1,10 +1,10 @@
 Mngcoin integration/staging tree
 ================================
 
-http://www.mngcoin.org
+http://www.mngcoin.uz
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Mngcoin Developers
+Copyright (c) 2021-2022 Mngcoin Developers
 
 What is Mngcoin?
 ----------------
@@ -12,14 +12,14 @@ What is Mngcoin?
 Mngcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - ~1017125 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 1 coins per block
+ - 2021 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Mngcoin client sofware, see http://www.mngcoin.org.
+the Mngcoin client sofware, see https://mangu.uz/.
 
 License
 -------
