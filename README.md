@@ -7,7 +7,7 @@ Markaziy Osiyodagj ilk blokchain sistema, "milliy bitcoin".
 
 The first blockchain system in Central Asia, the first "national bitcoin" in Uzbekistan.
 
-Первая блокчейн-система в Центральной Азии, «национальный биткойн».
+ервая блокчейн-система в Центральной Азии, первый «национальный биткойн» в Узбекистане.
 
 Copyright (c) 2021-2022 Mngcoin Developers
 
