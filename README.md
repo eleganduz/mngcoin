@@ -1,7 +1,7 @@
 Mngcoin integration/staging tree
 ================================
 
-http://www.mngcoin.uz
+https://mangu.uz/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2021-2022 Mngcoin Developers
