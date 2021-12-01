@@ -1,0 +1,2 @@
+# mngcoin
+MANGU♾INNOVATION
